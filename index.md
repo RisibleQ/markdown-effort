@@ -1,7 +1,9 @@
 # Header Up
 ## Header Gabler
 
-![Portrait of Dorian](Dorian.jpeg)
+![Portrait of Dorian](https://risibleq.github.com/markdown-effort/Dorian.jpeg)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```python
 def main():
