@@ -12,3 +12,12 @@ if __name__ == "__main__":
   main()
   
 ```
+
+### To-Do:
+
+- [x] Added headers
+- [x] Added image from example
+- [ ] Added own image
+- [x] Added some code
+- [x] Added this list
+
